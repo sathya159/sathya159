@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Mechanical Engineer** with expertise in **Autonomous Navigation**, **Machine Learning**, and **Mechanical Design**. My work spans across robotics, automotive, and drone sectors, where I focus on creating impactful solutions with skills in **Python**, **C++**, **MATLAB**, **CAD**, and **ROS**.
+I'm a passionate **Robotics Engineer** with expertise in **Autonomous Navigation**, **Machine Learning**, and **Mechanical Design**. My work spans across robotics, automotive, and drone sectors, where I focus on creating impactful solutions with skills in **Python**, **C++**, **MATLAB**, **CAD**, and **ROS**.
 
 - 🎓 **Master of Engineering in Robotics and Automation** - Stevens Institute of Technology, 3.7 GPA
 - 🤖 Fascinated by the integration of **Robotics, Automation,** and **Control Systems**
